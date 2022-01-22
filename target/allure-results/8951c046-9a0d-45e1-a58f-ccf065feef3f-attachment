@@ -1,0 +1,14 @@
+2022-01-22 at 16:18:06 CET logDebug - [ForkJoinPool-2-worker-3] Properties settings source=java.io.FileInputStream@2d3b9078
+2022-01-22 at 16:18:07 CET logDebug - [ForkJoinPool-2-worker-3] env=DEV
+2022-01-22 at 16:18:07 CET logInfo - [ForkJoinPool-2-worker-3] Selected Environment: DEV
+2022-01-22 at 16:18:07 CET logInfo - [ForkJoinPool-2-worker-3] Selected Environment: DEV
+2022-01-22 at 16:18:07 CET logAnalytics - [ForkJoinPool-2-worker-3] Is analytics enabled: false
+2022-01-22 at 16:18:07 CET logInfo - [ForkJoinPool-2-worker-3] "com.capgemini.mrchecker.selenium.MainPageTest" - CLASS STARTED.
+2022-01-22 at 16:18:07 CET logDebug - [ForkJoinPool-2-worker-3] Properties settings source=java.io.FileInputStream@527c4845
+2022-01-22 at 16:18:07 CET logDebug - [ForkJoinPool-2-worker-3] [browser=chrome, browserVersion=, seleniumGrid=, os=, browserOptions=]
+2022-01-22 at 16:18:07 CET logDebug - [ForkJoinPool-2-worker-3] Creating new browser=chrome WebDriver.
+2022-01-22 at 16:18:10 CET logDebug - [ForkJoinPool-2-worker-3] Downloaded version of driver=98.0.4758.48
+2022-01-22 at 16:18:10 CET logInfo - [ForkJoinPool-2-worker-3] Deleted directory - /Users/jakubwrzesniak/Documents/Projects/TripIt2GetherTest/./lib/webdrivers/chromedriver/mac64/98.0.4758.48
+2022-01-22 at 16:18:10 CET logInfo - [ForkJoinPool-2-worker-3] Deleted directory - /Users/jakubwrzesniak/Documents/Projects/TripIt2GetherTest/./lib/webdrivers/chromedriver/mac64
+2022-01-22 at 16:18:10 CET logInfo - [ForkJoinPool-2-worker-3] Deleted directory - /Users/jakubwrzesniak/Documents/Projects/TripIt2GetherTest/./lib/webdrivers/chromedriver
+2022-01-22 at 16:18:14 CET logInfo - [ForkJoinPool-2-worker-3] "" - FAILED.
