@@ -1,0 +1,17 @@
+com/capgemini/mrchecker/selenium/Models/User.class
+com/capgemini/mrchecker/selenium/EditApplicationPage.class
+com/capgemini/mrchecker/selenium/PersonalDataPage.class
+com/capgemini/mrchecker/selenium/CreateApplicationPage.class
+com/capgemini/mrchecker/selenium/RegisterPage.class
+com/capgemini/mrchecker/PerformAction.class
+com/capgemini/mrchecker/selenium/LoginPage.class
+com/capgemini/mrchecker/selenium/ApplicationsPage.class
+com/capgemini/mrchecker/selenium/ManageAccountPage.class
+com/capgemini/mrchecker/selenium/TripsPage.class
+com/capgemini/mrchecker/selenium/DeletePersonalDataPage.class
+com/capgemini/mrchecker/selenium/HomePage.class
+com/capgemini/mrchecker/selenium/Menu.class
+com/capgemini/mrchecker/selenium/environment/PageSubURLs.class
+com/capgemini/mrchecker/selenium/environment/EnvironmentParam.class
+com/capgemini/mrchecker/selenium/ShowPreviewData.class
+com/capgemini/mrchecker/selenium/environment/PageTitles.class

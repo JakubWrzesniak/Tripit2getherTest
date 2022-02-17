@@ -1,8 +1,0 @@
-2022-01-22 at 16:28:46 CET logInfo - [ForkJoinPool-2-worker-3] "com.capgemini.mrchecker.selenium.MainPageTest:test" - STARTED.
-2022-01-22 at 16:28:46 CET logInfo - [ForkJoinPool-2-worker-3] test
-2022-01-22 at 16:28:46 CET logInfo - [ForkJoinPool-2-worker-3] "com.capgemini.mrchecker.selenium.MainPageTest:test" - FINISHED.
-2022-01-22 at 16:28:46 CET logInfo - [ForkJoinPool-2-worker-3] "com.capgemini.mrchecker.selenium.MainPageTest:test" - DURATION: 0,00 min
-2022-01-22 at 16:28:46 CET logInfo - [ForkJoinPool-2-worker-3] "com.capgemini.mrchecker.selenium.MainPageTest:test" - PASSED.
-2022-01-22 at 16:28:46 CET logDebug - [ForkJoinPool-2-worker-3] Page.onTestSuccess    MainPage
-2022-01-22 at 16:28:46 CET logDebug - [ForkJoinPool-2-worker-3] Page.onTestFinish    MainPage
-2022-01-22 at 16:28:46 CET logDebug - [ForkJoinPool-2-worker-3] To remove observer: com.capgemini.mrchecker.selenium.MainPage@3cd4c83d

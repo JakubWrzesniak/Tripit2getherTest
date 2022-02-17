@@ -1,0 +1,1 @@
+{"uuid":"e96bf4f2-2e09-4734-a91c-c8ed145aa376","name":"SignUpForATripTest","children":["05eef29c-acda-4e0d-98f9-bab864873e41"],"befores":[],"afters":[{"name":"closeDriver","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1643060186383,"stop":1643060186742}],"links":[],"start":1643060126467,"stop":1643060186781}
